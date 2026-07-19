@@ -2,12 +2,12 @@
   "redirects": [
     {
       "source": "/invite/:code",
-      "destination": "https://apps.apple.com/app/fleuret/id0000000000",
+      "destination": "https://apps.apple.com/app/fleuret/id6764794651",
       "permanent": false
     },
     {
       "source": "/invite",
-      "destination": "https://apps.apple.com/app/fleuret/id0000000000",
+      "destination": "https://apps.apple.com/app/fleuret/id6764794651",
       "permanent": false
     }
   ]
